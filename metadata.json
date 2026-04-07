@@ -1,0 +1,5 @@
+{
+  "name": "TravelBuddy AI Agent",
+  "description": "A production-ready AI Travel Assistant built with LangGraph and LangChain for end-to-end trip planning.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Huế Paradise Hotel",
+    "location": "Huế",
+    "price": 970000,
+    "rating": 4.8,
+    "address": "89 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Huế River Hostel",
+    "location": "Huế",
+    "price": 160000,
+    "rating": 3.2,
+    "address": "29 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Hội An Ocean Boutique",
+    "location": "Hội An",
+    "price": 3970000,
+    "rating": 4.0,
+    "address": "87 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Phú Quốc Golden Hostel",
+    "location": "Phú Quốc",
+    "price": 230000,
+    "rating": 3.2,
+    "address": "124 Đường Phạm Văn Đồng, Phú Quốc"
+  },
+  {
+    "name": "Sài Gòn Sunny Homestay",
+    "location": "Sài Gòn",
+    "price": 400000,
+    "rating": 4.2,
+    "address": "62 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Đà Lạt River Homestay",
+    "location": "Đà Lạt",
+    "price": 300000,
+    "rating": 4.3,
+    "address": "68 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Sài Gòn Grand Resort",
+    "location": "Sài Gòn",
+    "price": 1030000,
+    "rating": 4.1,
+    "address": "89 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Hội An Golden Homestay",
+    "location": "Hội An",
+    "price": 460000,
+    "rating": 4.2,
+    "address": "109 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Sài Gòn Royal Resort",
+    "location": "Sài Gòn",
+    "price": 4730000,
+    "rating": 4.2,
+    "address": "52 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Huế Paradise Hotel",
+    "location": "Huế",
+    "price": 3010000,
+    "rating": 4.1,
+    "address": "56 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Hội An Sunny Boutique",
+    "location": "Hội An",
+    "price": 1790000,
+    "rating": 4.3,
+    "address": "121 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Đà Nẵng Moon Hostel",
+    "location": "Đà Nẵng",
+    "price": 480000,
+    "rating": 3.8,
+    "address": "45 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Hạ Long Moon Villa",
+    "location": "Hạ Long",
+    "price": 4090000,
+    "rating": 4.8,
+    "address": "111 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Đà Lạt Paradise Hostel",
+    "location": "Đà Lạt",
+    "price": 300000,
+    "rating": 3.3,
+    "address": "70 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Hạ Long River Boutique",
+    "location": "Hạ Long",
+    "price": 1150000,
+    "rating": 4.3,
+    "address": "56 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Sài Gòn Paradise Lodge",
+    "location": "Sài Gòn",
+    "price": 4460000,
+    "rating": 4.9,
+    "address": "42 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Hà Nội River Homestay",
+    "location": "Hà Nội",
+    "price": 290000,
+    "rating": 4.3,
+    "address": "15 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Nha Trang River Lodge",
+    "location": "Nha Trang",
+    "price": 2750000,
+    "rating": 4.4,
+    "address": "19 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Nha Trang Moon Villa",
+    "location": "Nha Trang",
+    "price": 3400000,
+    "rating": 4.5,
+    "address": "20 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Đà Nẵng Paradise Boutique",
+    "location": "Đà Nẵng",
+    "price": 3300000,
+    "rating": 4.3,
+    "address": "63 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Phú Quốc Green Hostel",
+    "location": "Phú Quốc",
+    "price": 460000,
+    "rating": 3.9,
+    "address": "141 Đường Phạm Văn Đồng, Phú Quốc"
+  },
+  {
+    "name": "Nha Trang Green Boutique",
+    "location": "Nha Trang",
+    "price": 4800000,
+    "rating": 4.4,
+    "address": "111 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Sapa Royal Homestay",
+    "location": "Sapa",
+    "price": 360000,
+    "rating": 3.2,
+    "address": "100 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Huế Green Resort",
+    "location": "Huế",
+    "price": 2470000,
+    "rating": 4.1,
+    "address": "92 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Hạ Long Star Hostel",
+    "location": "Hạ Long",
+    "price": 190000,
+    "rating": 4.3,
+    "address": "52 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Hạ Long Sunny Hotel",
+    "location": "Hạ Long",
+    "price": 1880000,
+    "rating": 4.7,
+    "address": "40 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Nha Trang Sunny Hostel",
+    "location": "Nha Trang",
+    "price": 270000,
+    "rating": 3.8,
+    "address": "36 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Đà Nẵng Paradise Hostel",
+    "location": "Đà Nẵng",
+    "price": 470000,
+    "rating": 4.0,
+    "address": "134 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Huế Moon Hostel",
+    "location": "Huế",
+    "price": 170000,
+    "rating": 3.8,
+    "address": "146 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Sapa Sunny Hostel",
+    "location": "Sapa",
+    "price": 250000,
+    "rating": 3.3,
+    "address": "32 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Sapa River Hotel",
+    "location": "Sapa",
+    "price": 2960000,
+    "rating": 5.0,
+    "address": "67 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Sài Gòn Moon Villa",
+    "location": "Sài Gòn",
+    "price": 3790000,
+    "rating": 4.5,
+    "address": "47 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Hội An River Homestay",
+    "location": "Hội An",
+    "price": 200000,
+    "rating": 3.2,
+    "address": "83 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Hội An Paradise Hotel",
+    "location": "Hội An",
+    "price": 3130000,
+    "rating": 4.8,
+    "address": "15 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Sapa Sunny Hotel",
+    "location": "Sapa",
+    "price": 1120000,
+    "rating": 4.9,
+    "address": "12 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Đà Nẵng Ocean Homestay",
+    "location": "Đà Nẵng",
+    "price": 230000,
+    "rating": 3.1,
+    "address": "72 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Huế Grand Hostel",
+    "location": "Huế",
+    "price": 330000,
+    "rating": 4.1,
+    "address": "3 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Đà Nẵng Sunny Lodge",
+    "location": "Đà Nẵng",
+    "price": 4300000,
+    "rating": 4.8,
+    "address": "76 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Hội An Grand Resort",
+    "location": "Hội An",
+    "price": 1680000,
+    "rating": 4.0,
+    "address": "62 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Sapa Grand Resort",
+    "location": "Sapa",
+    "price": 2670000,
+    "rating": 4.8,
+    "address": "67 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Hạ Long Ocean Hotel",
+    "location": "Hạ Long",
+    "price": 2420000,
+    "rating": 4.2,
+    "address": "149 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Hội An River Homestay",
+    "location": "Hội An",
+    "price": 320000,
+    "rating": 3.2,
+    "address": "76 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Đà Nẵng River Resort",
+    "location": "Đà Nẵng",
+    "price": 3730000,
+    "rating": 4.4,
+    "address": "69 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Đà Nẵng Golden Lodge",
+    "location": "Đà Nẵng",
+    "price": 4210000,
+    "rating": 4.2,
+    "address": "65 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Hà Nội Grand Hostel",
+    "location": "Hà Nội",
+    "price": 430000,
+    "rating": 4.5,
+    "address": "27 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Đà Nẵng Grand Lodge",
+    "location": "Đà Nẵng",
+    "price": 2500000,
+    "rating": 3.8,
+    "address": "139 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Sài Gòn Ocean Boutique",
+    "location": "Sài Gòn",
+    "price": 2630000,
+    "rating": 4.3,
+    "address": "19 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Đà Lạt Ocean Hostel",
+    "location": "Đà Lạt",
+    "price": 180000,
+    "rating": 4.3,
+    "address": "133 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Đà Lạt Ocean Lodge",
+    "location": "Đà Lạt",
+    "price": 2430000,
+    "rating": 4.9,
+    "address": "79 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Huế Grand Resort",
+    "location": "Huế",
+    "price": 860000,
+    "rating": 4.3,
+    "address": "104 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Hạ Long River Boutique",
+    "location": "Hạ Long",
+    "price": 3580000,
+    "rating": 4.6,
+    "address": "124 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Phú Quốc Moon Hotel",
+    "location": "Phú Quốc",
+    "price": 3110000,
+    "rating": 4.8,
+    "address": "57 Đường Phạm Văn Đồng, Phú Quốc"
+  },
+  {
+    "name": "Hạ Long Green Resort",
+    "location": "Hạ Long",
+    "price": 830000,
+    "rating": 4.9,
+    "address": "112 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Sài Gòn Golden Hotel",
+    "location": "Sài Gòn",
+    "price": 3050000,
+    "rating": 4.1,
+    "address": "60 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Đà Nẵng Green Lodge",
+    "location": "Đà Nẵng",
+    "price": 2330000,
+    "rating": 4.7,
+    "address": "141 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Sài Gòn Sunny Hostel",
+    "location": "Sài Gòn",
+    "price": 420000,
+    "rating": 4.5,
+    "address": "12 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Đà Nẵng River Hotel",
+    "location": "Đà Nẵng",
+    "price": 3840000,
+    "rating": 4.3,
+    "address": "71 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Sài Gòn Green Resort",
+    "location": "Sài Gòn",
+    "price": 2990000,
+    "rating": 4.1,
+    "address": "97 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Huế River Hostel",
+    "location": "Huế",
+    "price": 200000,
+    "rating": 4.1,
+    "address": "137 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Hạ Long Sunny Boutique",
+    "location": "Hạ Long",
+    "price": 1880000,
+    "rating": 4.1,
+    "address": "29 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Sapa Sunny Boutique",
+    "location": "Sapa",
+    "price": 3840000,
+    "rating": 4.5,
+    "address": "59 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Đà Lạt River Lodge",
+    "location": "Đà Lạt",
+    "price": 2460000,
+    "rating": 4.1,
+    "address": "97 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Sài Gòn River Boutique",
+    "location": "Sài Gòn",
+    "price": 1160000,
+    "rating": 5.0,
+    "address": "140 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Nha Trang Sunny Homestay",
+    "location": "Nha Trang",
+    "price": 360000,
+    "rating": 3.0,
+    "address": "105 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Nha Trang Paradise Villa",
+    "location": "Nha Trang",
+    "price": 4630000,
+    "rating": 4.4,
+    "address": "7 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Đà Lạt Green Hotel",
+    "location": "Đà Lạt",
+    "price": 850000,
+    "rating": 4.6,
+    "address": "10 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Hội An Ocean Hostel",
+    "location": "Hội An",
+    "price": 480000,
+    "rating": 4.3,
+    "address": "45 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Đà Nẵng Star Boutique",
+    "location": "Đà Nẵng",
+    "price": 1810000,
+    "rating": 4.5,
+    "address": "103 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Huế Royal Homestay",
+    "location": "Huế",
+    "price": 470000,
+    "rating": 3.7,
+    "address": "23 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Sapa Moon Villa",
+    "location": "Sapa",
+    "price": 1580000,
+    "rating": 4.0,
+    "address": "5 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Hội An Moon Resort",
+    "location": "Hội An",
+    "price": 1950000,
+    "rating": 4.3,
+    "address": "71 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Hội An Sunny Lodge",
+    "location": "Hội An",
+    "price": 840000,
+    "rating": 4.1,
+    "address": "25 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Hội An Paradise Hostel",
+    "location": "Hội An",
+    "price": 200000,
+    "rating": 4.1,
+    "address": "72 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Đà Nẵng River Homestay",
+    "location": "Đà Nẵng",
+    "price": 230000,
+    "rating": 3.5,
+    "address": "120 Đường Phạm Văn Đồng, Đà Nẵng"
+  },
+  {
+    "name": "Hạ Long Royal Boutique",
+    "location": "Hạ Long",
+    "price": 2670000,
+    "rating": 4.6,
+    "address": "39 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Phú Quốc Golden Homestay",
+    "location": "Phú Quốc",
+    "price": 500000,
+    "rating": 3.3,
+    "address": "82 Đường Phạm Văn Đồng, Phú Quốc"
+  },
+  {
+    "name": "Hà Nội Ocean Boutique",
+    "location": "Hà Nội",
+    "price": 1680000,
+    "rating": 4.2,
+    "address": "128 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Hội An Paradise Resort",
+    "location": "Hội An",
+    "price": 810000,
+    "rating": 3.8,
+    "address": "26 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Sapa Green Boutique",
+    "location": "Sapa",
+    "price": 3580000,
+    "rating": 4.7,
+    "address": "137 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Hà Nội Moon Homestay",
+    "location": "Hà Nội",
+    "price": 280000,
+    "rating": 3.7,
+    "address": "57 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Hạ Long River Hotel",
+    "location": "Hạ Long",
+    "price": 870000,
+    "rating": 4.0,
+    "address": "3 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Sapa Moon Hotel",
+    "location": "Sapa",
+    "price": 4350000,
+    "rating": 4.3,
+    "address": "138 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Sapa Star Lodge",
+    "location": "Sapa",
+    "price": 4000000,
+    "rating": 4.7,
+    "address": "104 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Hạ Long River Hostel",
+    "location": "Hạ Long",
+    "price": 250000,
+    "rating": 3.3,
+    "address": "93 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Huế Star Boutique",
+    "location": "Huế",
+    "price": 4490000,
+    "rating": 3.8,
+    "address": "70 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Nha Trang Golden Villa",
+    "location": "Nha Trang",
+    "price": 960000,
+    "rating": 3.8,
+    "address": "131 Đường Phạm Văn Đồng, Nha Trang"
+  },
+  {
+    "name": "Hội An Royal Hotel",
+    "location": "Hội An",
+    "price": 1180000,
+    "rating": 4.3,
+    "address": "97 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Hội An Star Hostel",
+    "location": "Hội An",
+    "price": 410000,
+    "rating": 3.5,
+    "address": "97 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Huế River Homestay",
+    "location": "Huế",
+    "price": 230000,
+    "rating": 4.5,
+    "address": "34 Đường Phạm Văn Đồng, Huế"
+  },
+  {
+    "name": "Sapa Ocean Boutique",
+    "location": "Sapa",
+    "price": 900000,
+    "rating": 4.5,
+    "address": "95 Đường Phạm Văn Đồng, Sapa"
+  },
+  {
+    "name": "Hạ Long Moon Hostel",
+    "location": "Hạ Long",
+    "price": 170000,
+    "rating": 4.3,
+    "address": "26 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Phú Quốc Sunny Lodge",
+    "location": "Phú Quốc",
+    "price": 880000,
+    "rating": 3.8,
+    "address": "144 Đường Phạm Văn Đồng, Phú Quốc"
+  },
+  {
+    "name": "Hà Nội Royal Homestay",
+    "location": "Hà Nội",
+    "price": 270000,
+    "rating": 3.5,
+    "address": "24 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Đà Lạt Star Villa",
+    "location": "Đà Lạt",
+    "price": 4140000,
+    "rating": 4.1,
+    "address": "11 Đường Phạm Văn Đồng, Đà Lạt"
+  },
+  {
+    "name": "Hạ Long Grand Homestay",
+    "location": "Hạ Long",
+    "price": 260000,
+    "rating": 4.2,
+    "address": "125 Đường Phạm Văn Đồng, Hạ Long"
+  },
+  {
+    "name": "Hà Nội Green Lodge",
+    "location": "Hà Nội",
+    "price": 2030000,
+    "rating": 4.5,
+    "address": "26 Đường Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "name": "Hội An Grand Lodge",
+    "location": "Hội An",
+    "price": 4300000,
+    "rating": 5.0,
+    "address": "5 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Hội An Green Boutique",
+    "location": "Hội An",
+    "price": 3980000,
+    "rating": 4.1,
+    "address": "44 Đường Phạm Văn Đồng, Hội An"
+  },
+  {
+    "name": "Sài Gòn Sunny Resort",
+    "location": "Sài Gòn",
+    "price": 720000,
+    "rating": 4.0,
+    "address": "115 Đường Phạm Văn Đồng, Sài Gòn"
+  },
+  {
+    "name": "Nha Trang Paradise Hotel",
+    "location": "Nha Trang",
+    "price": 820000,
+    "rating": 4.7,
+    "address": "102 Đường Phạm Văn Đồng, Nha Trang"
+  }
+]

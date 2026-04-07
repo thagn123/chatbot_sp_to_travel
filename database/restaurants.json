@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Bistro Gia Đình - Đặc sản Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Seafood",
+    "price_per_person": 710000,
+    "rating": 3.7
+  },
+  {
+    "name": "Bistro Biển Xanh - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "Asian",
+    "price_per_person": 180000,
+    "rating": 4.9
+  },
+  {
+    "name": "Quán Biển Xanh - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Vietnamese",
+    "price_per_person": 100000,
+    "rating": 4.1
+  },
+  {
+    "name": "Quán ăn Gia Đình - Đặc sản Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "Local",
+    "price_per_person": 70000,
+    "rating": 4.4
+  },
+  {
+    "name": "Quán 99 - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "BBQ",
+    "price_per_person": 220000,
+    "rating": 4.5
+  },
+  {
+    "name": "Quán Bà Út - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "Local",
+    "price_per_person": 160000,
+    "rating": 3.5
+  },
+  {
+    "name": "Quán Ngon - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Local",
+    "price_per_person": 90000,
+    "rating": 3.7
+  },
+  {
+    "name": "Quán ăn Biển Xanh - Đặc sản Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Asian",
+    "price_per_person": 260000,
+    "rating": 4.0
+  },
+  {
+    "name": "Buffet Asian Thành Đạt tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 130000,
+    "rating": 4.2
+  },
+  {
+    "name": "Quán Gia Đình - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 30000,
+    "rating": 4.7
+  },
+  {
+    "name": "Bistro Hương Quê - Đặc sản Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Seafood",
+    "price_per_person": 620000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Vegetarian",
+    "price_per_person": 80000,
+    "rating": 4.0
+  },
+  {
+    "name": "Buffet Seafood Bà Út tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Seafood",
+    "price_per_person": 800000,
+    "rating": 3.9
+  },
+  {
+    "name": "Buffet Asian Gia Đình tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 140000,
+    "rating": 4.9
+  },
+  {
+    "name": "Quán Bà Út - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "BBQ",
+    "price_per_person": 180000,
+    "rating": 4.4
+  },
+  {
+    "name": "Buffet Vegetarian Biển Xanh tại Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Vegetarian",
+    "price_per_person": 280000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán Thành Đạt - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Vietnamese",
+    "price_per_person": 140000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán Gia Đình - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Western",
+    "price_per_person": 80000,
+    "rating": 4.0
+  },
+  {
+    "name": "Bistro Truyền thống - Đặc sản Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "BBQ",
+    "price_per_person": 200000,
+    "rating": 3.7
+  },
+  {
+    "name": "Nhà hàng Vegetarian Ngon tại Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Vegetarian",
+    "price_per_person": 200000,
+    "rating": 3.8
+  },
+  {
+    "name": "Nhà hàng Vietnamese Ngon tại Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Vietnamese",
+    "price_per_person": 280000,
+    "rating": 4.3
+  },
+  {
+    "name": "Quán ăn Truyền thống - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Local",
+    "price_per_person": 130000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán Truyền thống - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Vietnamese",
+    "price_per_person": 210000,
+    "rating": 3.6
+  },
+  {
+    "name": "Quán Biển Xanh - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 250000,
+    "rating": 4.8
+  },
+  {
+    "name": "Quán Truyền thống - Đặc sản Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Western",
+    "price_per_person": 150000,
+    "rating": 3.7
+  },
+  {
+    "name": "Quán Hương Quê - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Vietnamese",
+    "price_per_person": 50000,
+    "rating": 4.0
+  },
+  {
+    "name": "Nhà hàng Vietnamese Ngon tại Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Vietnamese",
+    "price_per_person": 80000,
+    "rating": 4.3
+  },
+  {
+    "name": "Nhà hàng Vietnamese Biển Xanh tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Vietnamese",
+    "price_per_person": 280000,
+    "rating": 4.6
+  },
+  {
+    "name": "Buffet BBQ Hương Quê tại Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "BBQ",
+    "price_per_person": 190000,
+    "rating": 4.1
+  },
+  {
+    "name": "Nhà hàng Vietnamese Biển Xanh tại Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Vietnamese",
+    "price_per_person": 150000,
+    "rating": 3.8
+  },
+  {
+    "name": "Nhà hàng Vietnamese Biển Xanh tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 190000,
+    "rating": 4.8
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "BBQ",
+    "price_per_person": 270000,
+    "rating": 3.9
+  },
+  {
+    "name": "Bistro Truyền thống - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 290000,
+    "rating": 3.8
+  },
+  {
+    "name": "Nhà hàng Seafood 99 tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Seafood",
+    "price_per_person": 780000,
+    "rating": 4.0
+  },
+  {
+    "name": "Bistro 99 - Đặc sản Huế",
+    "location": "Huế",
+    "cuisine": "Asian",
+    "price_per_person": 170000,
+    "rating": 3.6
+  },
+  {
+    "name": "Nhà hàng Asian Thành Đạt tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 240000,
+    "rating": 4.3
+  },
+  {
+    "name": "Quán ăn Truyền thống - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Local",
+    "price_per_person": 210000,
+    "rating": 3.6
+  },
+  {
+    "name": "Nhà hàng Western Truyền thống tại Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Western",
+    "price_per_person": 140000,
+    "rating": 4.9
+  },
+  {
+    "name": "Nhà hàng Seafood Bà Út tại Sapa",
+    "location": "Sapa",
+    "cuisine": "Seafood",
+    "price_per_person": 210000,
+    "rating": 3.8
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Vietnamese",
+    "price_per_person": 60000,
+    "rating": 4.4
+  },
+  {
+    "name": "Nhà hàng Local Biển Xanh tại Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Local",
+    "price_per_person": 130000,
+    "rating": 3.7
+  },
+  {
+    "name": "Bistro 99 - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Seafood",
+    "price_per_person": 490000,
+    "rating": 4.0
+  },
+  {
+    "name": "Buffet Vietnamese 99 tại Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Vietnamese",
+    "price_per_person": 90000,
+    "rating": 5.0
+  },
+  {
+    "name": "Buffet Local Truyền thống tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Local",
+    "price_per_person": 180000,
+    "rating": 4.2
+  },
+  {
+    "name": "Bistro Biển Xanh - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "BBQ",
+    "price_per_person": 230000,
+    "rating": 4.9
+  },
+  {
+    "name": "Buffet Seafood Truyền thống tại Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Seafood",
+    "price_per_person": 420000,
+    "rating": 4.1
+  },
+  {
+    "name": "Bistro Bà Út - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Seafood",
+    "price_per_person": 340000,
+    "rating": 4.5
+  },
+  {
+    "name": "Quán ăn Thành Đạt - Đặc sản Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "Local",
+    "price_per_person": 60000,
+    "rating": 4.6
+  },
+  {
+    "name": "Quán ăn Thành Đạt - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "BBQ",
+    "price_per_person": 280000,
+    "rating": 4.3
+  },
+  {
+    "name": "Quán 99 - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Vegetarian",
+    "price_per_person": 50000,
+    "rating": 4.9
+  },
+  {
+    "name": "Bistro 99 - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Local",
+    "price_per_person": 170000,
+    "rating": 4.5
+  },
+  {
+    "name": "Nhà hàng Local Hương Quê tại Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Local",
+    "price_per_person": 240000,
+    "rating": 3.6
+  },
+  {
+    "name": "Quán Thành Đạt - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "Asian",
+    "price_per_person": 70000,
+    "rating": 4.5
+  },
+  {
+    "name": "Nhà hàng Vietnamese Thành Đạt tại Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Vietnamese",
+    "price_per_person": 190000,
+    "rating": 3.6
+  },
+  {
+    "name": "Bistro Ngon - Đặc sản Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "BBQ",
+    "price_per_person": 300000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán ăn Gia Đình - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Vegetarian",
+    "price_per_person": 80000,
+    "rating": 4.2
+  },
+  {
+    "name": "Bistro 99 - Đặc sản Đà Lạt",
+    "location": "Đà Lạt",
+    "cuisine": "Western",
+    "price_per_person": 230000,
+    "rating": 3.7
+  },
+  {
+    "name": "Nhà hàng Vietnamese Thành Đạt tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Vietnamese",
+    "price_per_person": 220000,
+    "rating": 4.3
+  },
+  {
+    "name": "Buffet Vietnamese 99 tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 130000,
+    "rating": 4.4
+  },
+  {
+    "name": "Quán ăn Hương Quê - Đặc sản Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Vegetarian",
+    "price_per_person": 250000,
+    "rating": 3.9
+  },
+  {
+    "name": "Quán ăn Hương Quê - Đặc sản Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Seafood",
+    "price_per_person": 640000,
+    "rating": 4.3
+  },
+  {
+    "name": "Bistro Truyền thống - Đặc sản Huế",
+    "location": "Huế",
+    "cuisine": "Vegetarian",
+    "price_per_person": 250000,
+    "rating": 4.7
+  },
+  {
+    "name": "Nhà hàng Vietnamese Hương Quê tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 150000,
+    "rating": 4.3
+  },
+  {
+    "name": "Buffet Local Hương Quê tại Huế",
+    "location": "Huế",
+    "cuisine": "Local",
+    "price_per_person": 60000,
+    "rating": 4.2
+  },
+  {
+    "name": "Bistro Gia Đình - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Western",
+    "price_per_person": 100000,
+    "rating": 4.9
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "Vietnamese",
+    "price_per_person": 170000,
+    "rating": 4.0
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Western",
+    "price_per_person": 150000,
+    "rating": 4.1
+  },
+  {
+    "name": "Buffet Seafood Hương Quê tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Seafood",
+    "price_per_person": 260000,
+    "rating": 3.8
+  },
+  {
+    "name": "Bistro 99 - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 110000,
+    "rating": 4.1
+  },
+  {
+    "name": "Quán Truyền thống - Đặc sản Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "BBQ",
+    "price_per_person": 260000,
+    "rating": 3.6
+  },
+  {
+    "name": "Quán Thành Đạt - Đặc sản Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Western",
+    "price_per_person": 30000,
+    "rating": 4.0
+  },
+  {
+    "name": "Buffet Asian Hương Quê tại Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Asian",
+    "price_per_person": 200000,
+    "rating": 4.9
+  },
+  {
+    "name": "Quán ăn Ngon - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Local",
+    "price_per_person": 130000,
+    "rating": 4.0
+  },
+  {
+    "name": "Bistro Hương Quê - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Asian",
+    "price_per_person": 90000,
+    "rating": 5.0
+  },
+  {
+    "name": "Buffet Vegetarian Gia Đình tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Vegetarian",
+    "price_per_person": 290000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán ăn Biển Xanh - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Local",
+    "price_per_person": 210000,
+    "rating": 4.9
+  },
+  {
+    "name": "Nhà hàng Asian Truyền thống tại Sapa",
+    "location": "Sapa",
+    "cuisine": "Asian",
+    "price_per_person": 120000,
+    "rating": 3.6
+  },
+  {
+    "name": "Quán ăn Biển Xanh - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Local",
+    "price_per_person": 80000,
+    "rating": 5.0
+  },
+  {
+    "name": "Quán ăn Truyền thống - Đặc sản Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Asian",
+    "price_per_person": 270000,
+    "rating": 3.7
+  },
+  {
+    "name": "Buffet Western Ngon tại Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Western",
+    "price_per_person": 240000,
+    "rating": 4.2
+  },
+  {
+    "name": "Quán Ngon - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "BBQ",
+    "price_per_person": 80000,
+    "rating": 4.9
+  },
+  {
+    "name": "Quán Hương Quê - Đặc sản Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "Vegetarian",
+    "price_per_person": 300000,
+    "rating": 4.2
+  },
+  {
+    "name": "Nhà hàng Local 99 tại Sapa",
+    "location": "Sapa",
+    "cuisine": "Local",
+    "price_per_person": 220000,
+    "rating": 4.1
+  },
+  {
+    "name": "Buffet Seafood 99 tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Seafood",
+    "price_per_person": 480000,
+    "rating": 4.8
+  },
+  {
+    "name": "Nhà hàng Vegetarian Truyền thống tại Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Vegetarian",
+    "price_per_person": 100000,
+    "rating": 4.6
+  },
+  {
+    "name": "Quán ăn Bà Út - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "Vegetarian",
+    "price_per_person": 110000,
+    "rating": 4.6
+  },
+  {
+    "name": "Buffet Vegetarian Bà Út tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Vegetarian",
+    "price_per_person": 90000,
+    "rating": 4.0
+  },
+  {
+    "name": "Nhà hàng Asian Biển Xanh tại Hội An",
+    "location": "Hội An",
+    "cuisine": "Asian",
+    "price_per_person": 190000,
+    "rating": 4.7
+  },
+  {
+    "name": "Quán Ngon - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Vietnamese",
+    "price_per_person": 290000,
+    "rating": 4.7
+  },
+  {
+    "name": "Bistro Gia Đình - Đặc sản Hội An",
+    "location": "Hội An",
+    "cuisine": "Local",
+    "price_per_person": 230000,
+    "rating": 4.2
+  },
+  {
+    "name": "Quán 99 - Đặc sản Hà Nội",
+    "location": "Hà Nội",
+    "cuisine": "Seafood",
+    "price_per_person": 730000,
+    "rating": 3.6
+  },
+  {
+    "name": "Quán ăn Ngon - Đặc sản Huế",
+    "location": "Huế",
+    "cuisine": "Seafood",
+    "price_per_person": 470000,
+    "rating": 3.8
+  },
+  {
+    "name": "Bistro Truyền thống - Đặc sản Nha Trang",
+    "location": "Nha Trang",
+    "cuisine": "Asian",
+    "price_per_person": 130000,
+    "rating": 4.2
+  },
+  {
+    "name": "Quán Gia Đình - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "Asian",
+    "price_per_person": 250000,
+    "rating": 4.0
+  },
+  {
+    "name": "Nhà hàng Seafood Gia Đình tại Đà Nẵng",
+    "location": "Đà Nẵng",
+    "cuisine": "Seafood",
+    "price_per_person": 970000,
+    "rating": 4.0
+  },
+  {
+    "name": "Quán ăn 99 - Đặc sản Phú Quốc",
+    "location": "Phú Quốc",
+    "cuisine": "BBQ",
+    "price_per_person": 90000,
+    "rating": 4.6
+  },
+  {
+    "name": "Buffet Asian Biển Xanh tại Sài Gòn",
+    "location": "Sài Gòn",
+    "cuisine": "Asian",
+    "price_per_person": 120000,
+    "rating": 4.4
+  },
+  {
+    "name": "Quán Hương Quê - Đặc sản Huế",
+    "location": "Huế",
+    "cuisine": "Local",
+    "price_per_person": 60000,
+    "rating": 5.0
+  },
+  {
+    "name": "Bistro Thành Đạt - Đặc sản Sapa",
+    "location": "Sapa",
+    "cuisine": "Seafood",
+    "price_per_person": 940000,
+    "rating": 3.7
+  },
+  {
+    "name": "Bistro Truyền thống - Đặc sản Hạ Long",
+    "location": "Hạ Long",
+    "cuisine": "Vietnamese",
+    "price_per_person": 160000,
+    "rating": 5.0
+  }
+]
